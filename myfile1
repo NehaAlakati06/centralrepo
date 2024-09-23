@@ -1,0 +1,4 @@
+print("welcome")
+a=50
+print(a)
+
